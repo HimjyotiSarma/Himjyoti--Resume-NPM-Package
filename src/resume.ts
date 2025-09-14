@@ -4,7 +4,7 @@ import chalk from 'chalk'
 import terminalLink from 'terminal-link'
 
 /* ---------- Resume Data ---------- */
-import DATA from './data'
+import DATA from './resume_data'
 
 /* ---------- Types ---------- */
 import type { Education, Experience, Project } from './types'

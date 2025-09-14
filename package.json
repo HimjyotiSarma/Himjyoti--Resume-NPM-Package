@@ -1,6 +1,6 @@
 {
-  "name": "@himjyotisarma/cv",
-  "version": "1.0.0",
+  "name": "@himjyoti-sarma-aa3b2719a/cv",
+  "version": "1.0.3",
   "description": "CLI resume for LinkedIn handle @himjyoti-sarma-aa3b2719a",
   "main": "dist/resume.js",
   "bin": {
